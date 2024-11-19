@@ -18,6 +18,7 @@ Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents
 ## About the Project
 This project connected users to local food banks in the Seattle area. The app consists of four main sections:
 - **About Page:** Explains the purpose of the app and its services.
+- !Landing Page Port Screenshot
 - **Profile Section:** Allows users to create a profile for volunteering or using food bank services.
 - **Find-a-Foodbank Section:** Users can filter through food banks to match their preferences.
 - **Volunteer Form:** Users can sign up to be a volunteer.
