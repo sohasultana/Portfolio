@@ -52,3 +52,26 @@ I was responsible for creating the volunteer form for the users. This included:
 5. **Creating an Ajax Firebase** to store user data
 6. **Deploying the App** to GitHub
 
+
+
+
+# Instacart Database
+
+**Timeframe:** January 2024 - March 2024  
+**Role:** Database Design  
+**Tools:** SQL, Azure Data Studio  
+
+## About the Project
+This project consisted of creating a database using SQL for the information system Instacart, which is a website that compares different grocery store prices. The database stores information such as customers, orders, stores, and delivery data. In addition, we also used stored procedures to streamline the process of adding and retrieving data.
+
+## Deliverables
+I created the Order table which tracks the order details. When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, we managed the data by creating a stored procedure called `GetCustomerID`, which is used to add a new customer into the database using the same code to increase efficiency.
+
+## Step by Step Outline
+1. **Started with finding out an Information System**
+2. **Drafted out an ERD with the tables**
+3. **Identified the primary and foreign keys of each table and normalized them to 3rd normal form**
+4. **Added this information into an Azure Cloud Database**
+5. **Created each table within the Azure Cloud**
+6. **Created the stored procedures and computed columns alongside the tables**
+
