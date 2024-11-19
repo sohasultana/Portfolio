@@ -5,7 +5,7 @@ Please feel free to contact me at sohas@uw.edu
 
 Linkedin: www.linkedin.com/in/sohasultanauw 
 
-Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents/Attachments/Soha%20Resume.docx?d=w4bfc8f45fbbd4b859ab3404533f6dddb&csf=1&web=1&e=zVXS4f 
+Resumé: https://uwnetid-my.sharepoint.com/:w:/g/personal/sohas_uw_edu/EUWP_Eu9-4VLmrNARTP23dsB6z-igX0cFliJ6uwIbSqt3g?e=6ApXYN 
 
 # About Me
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
