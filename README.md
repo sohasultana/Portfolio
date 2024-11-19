@@ -13,7 +13,7 @@ Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents
 **Timeframe:** September 2023 - December 2023  
 **Role:** Full Stack Developer  
 **Tools:** HTML, CSS, React, JavaScript, GitHub  
-**Link:** Let's Find Dinner
+**Link:** https://lets-find-dinner.web.app/volunteer
 
 ## About the Project
 This project connected users to local food banks in the Seattle area. The app consists of four main sections:
