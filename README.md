@@ -13,7 +13,7 @@ Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents
 **Timeframe:** September 2023 - December 2023  
 **Role:** Full Stack Developer  
 **Tools:** HTML, CSS, React, JavaScript, GitHub  
-**Link:** https://lets-find-dinner.web.app/volunteer
+**Link:** Let's Find Dinner
 
 ## About the Project
 This project connected users to local food banks in the Seattle area. The app consists of four main sections:
@@ -34,9 +34,6 @@ This project connected users to local food banks in the Seattle area. The app co
 
   <img width="407" alt="image" src="https://github.com/user-attachments/assets/2b2a7851-005f-4aa3-8b64-60760297aa68">
 
-
-
-
 ## Deliverables
 I was responsible for creating the volunteer form for the users. This included:
 - Using **HTML** and **JavaScript** to create different form sections (name, age, zip code, contact information).
@@ -47,8 +44,10 @@ I was responsible for creating the volunteer form for the users. This included:
 ## Step by Step Outline
 1. **Coming up with a Project Topic Proposal**
 2. **Creating a Static Mock-Up** (HTML and CSS outline)
-   Initial Landing Page
+
+   Initial Landing Page:
    <img width="926" alt="image" src="https://github.com/user-attachments/assets/4d8ac0ba-ddbb-46f2-8b24-f25005f34e9c">
+
    Static Form without Validation Protocols:
    <img width="658" alt="image" src="https://github.com/user-attachments/assets/865b21cb-c381-4691-adb2-df72cc4ec894">
 
@@ -56,13 +55,15 @@ I was responsible for creating the volunteer form for the users. This included:
    <img width="296" alt="image" src="https://github.com/user-attachments/assets/91e4c730-fa29-4fc9-a49b-8d9d6eaf68c2">
 
 4. **Creating Interactive Features** using React
-    Updated Landing Page with hover interaction:
-  <img width="937" alt="image" src="https://github.com/user-attachments/assets/3cbeec9a-845f-40d4-8d51-dd5185d74a85">
-5. **Creating an Ajax Firebase** for Data Analytics
- <img width="711" alt="image" src="https://github.com/user-attachments/assets/6f5cba72-7e0e-43ec-b3ca-ff3417a76507">
 
-   
+   Updated Landing Page with hover interaction:
+   <img width="937" alt="image" src="https://github.com/user-attachments/assets/3cbeec9a-845f-40d4-8d51-dd5185d74a85">
+
+5. **Creating an Ajax Firebase** for Data Analytics
+   <img width="711" alt="image" src="https://github.com/user-attachments/assets/6f5cba72-7e0e-43ec-b3ca-ff3417a76507">
+
 6. **Deploying the App** to GitHub
+
 
 
 
