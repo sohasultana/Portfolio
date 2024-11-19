@@ -22,6 +22,7 @@ This project connected users to local food banks in the Seattle area. The app co
 - **Profile Section:** Allows users to create a profile for volunteering or using food bank services.
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/6800f6cb-f465-4f0a-a7b9-225b1080534e">
 - **Find-a-Foodbank Section:** Users can filter through food banks to match their preferences.
+  <img width="919" alt="image" src="https://github.com/user-attachments/assets/3266677f-3b35-4bfa-81d0-01dcb7616e9f">
 - **Volunteer Form:** Users can sign up to be a volunteer.
 
 ## Deliverables
