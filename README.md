@@ -76,9 +76,7 @@ I created the Order table which tracks the order details. When creating the data
 7. <img width="136" alt="image" src="https://github.com/user-attachments/assets/e8083bcb-afd9-4e2e-92a3-bd8984517e2e">
 
 8. **Added Stored Procedures to streamline data**
-<img width="178" alt="image" src="https://github.com/user-attachments/assets/24bd1b40-361e-4f89-9e1b-e3486da224db">
-<img width="86" alt="image" src="https://github.com/user-attachments/assets/793ce116-07f9-4083-9b6e-9798c1a04eb9">
-<img width="139" alt="image" src="https://github.com/user-attachments/assets/d3821112-f80f-4961-b758-7769bd0d2bd8">
+
 
 10. **Presented Final Deliverable**
 https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
