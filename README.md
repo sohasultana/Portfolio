@@ -65,19 +65,29 @@ I was responsible for creating the volunteer form for the users. This included:
 This project consisted of creating a database using SQL for the information system Instacart, which is a website that compares different grocery store prices. The database stores information such as customers, orders, stores, and delivery data. In addition, we also used stored procedures to streamline the process of adding and retrieving data.
 
 ## Deliverables
-I created the Order table which tracks the order details. When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, we managed the data by creating a stored procedure called GetCustomerID, which is used to add a new customer into the database using the same code to increase efficiency.
+I created the Order table which tracks the order details:
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/5687afc6-19c6-4ce7-bb04-75b2ee028e06">
+When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, I managed the data by creating a stored procedure called GetCustomerID, which is used to add a new customer into the database using the same code to increase efficiency. 
+<img width="261" alt="image" src="https://github.com/user-attachments/assets/ab21f7dc-e261-4f3b-a916-1e03e10673cb">
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/df9bcef7-9038-47f1-b524-77ad1f75ef52">
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/594f2caf-21e6-414a-810b-f8d632cd45e3">
+
+I also created another stored procedure, newStoreID, that adds a new grocery store into the database:
+<img width="347" alt="image" src="https://github.com/user-attachments/assets/20401587-6476-4fea-9e35-a09c432d556f">
+
+
 
 ## Step by Step Outline
 1. **Started with finding out an Information System**
 2. **Drafted out an ERD with the tables**
 4. **Identified the primary and foreign keys of each table and normalized them to 3rd normal form**
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/e84b0ae8-5263-49bb-828e-4d3ebe24a0c2">
-6. **Created the database on Azure Cloud Studio**
-7. <img width="136" alt="image" src="https://github.com/user-attachments/assets/e8083bcb-afd9-4e2e-92a3-bd8984517e2e">
+5. **Created the database on Azure Cloud Studio**
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/9d516cbc-6776-47bc-8875-e0760b561c09">
 
-8. **Added Stored Procedures to streamline data**
+6. **Added Stored Procedures and Business Rules to streamline Data**
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/9b97374f-28a6-4316-a297-78bbf63d360c">
 
-
-10. **Presented Final Deliverable**
+7. **Presented Final Deliverable**
 https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
 
