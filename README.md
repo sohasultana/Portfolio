@@ -1,12 +1,18 @@
 # Portfolio
 
-Hello, I am Soha Sultana, a third-year student at the University of Washington studying Informatics. I have a passion for software development and have created projects using Java, SQL, HTML, CSS, JavaScript, and React. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions. 
-
+Hello, I am Soha Sultana, a third-year student at the University of Washington studying Informatics. I have projects in both front-end and back-end development which I have gained experience through class projects.
 Please feel free to contact me at sohas@uw.edu
 
 Linkedin: www.linkedin.com/in/sohasultanauw 
 
 Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents/Attachments/Soha%20Resume.docx?d=w4bfc8f45fbbd4b859ab3404533f6dddb&csf=1&web=1&e=zVXS4f 
+
+# About Me
+<img width="210" alt="image" src="https://github.com/user-attachments/assets/b79931fd-6a3b-47f4-b842-2ecf3316540d">
+
+I develop software projects that are dedicated to giving back to my community. I have developed projects using Java, HTML, CSS, React, JavaScript, and SQL. My future career goals include becoming a full-stack developer, where I would like to strengthen my programming skills to build innovative and effective solutions that serve my community.
+
+My Methodology for designing such projects starts with identifying an issue that my community is facing, and finding out how I can use technology to solve that issue. I start with understanding the criteria and contraints I am given and use the Software Developmental Model to test out my projects and to continually improve them.  
 
 # Let's Find Dinner
 
