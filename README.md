@@ -70,8 +70,17 @@ I created the Order table which tracks the order details. When creating the data
 ## Step by Step Outline
 1. **Started with finding out an Information System**
 2. **Drafted out an ERD with the tables**
-3. **Identified the primary and foreign keys of each table and normalized them to 3rd normal form**
-4. **Added this information into an Azure Cloud Database**
-5. **Created each table within the Azure Cloud**
-6. **Created the stored procedures and computed columns alongside the tables**
+   <img width="346" alt="image" src="https://github.com/user-attachments/assets/e84b0ae8-5263-49bb-828e-4d3ebe24a0c2">
+4. **Identified the primary and foreign keys of each table and normalized them to 3rd normal form**
+6. **Created the database on Azure Cloud Studio**
+7. <img width="136" alt="image" src="https://github.com/user-attachments/assets/e8083bcb-afd9-4e2e-92a3-bd8984517e2e">
+
+8. **Added Stored Procedures to streamline data**
+<img width="178" alt="image" src="https://github.com/user-attachments/assets/24bd1b40-361e-4f89-9e1b-e3486da224db">
+<img width="86" alt="image" src="https://github.com/user-attachments/assets/793ce116-07f9-4083-9b6e-9798c1a04eb9">
+<img width="139" alt="image" src="https://github.com/user-attachments/assets/d3821112-f80f-4961-b758-7769bd0d2bd8">
+
+
+10. **Presented Final Deliverable**
+https://docs.google.com/presentation/d/13upIJfQKCd0TFLrQI0vJaUULjzw1AbgwI5Eeh7BTBJA/edit?usp=sharing
 
