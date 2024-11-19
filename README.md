@@ -49,7 +49,7 @@ I was responsible for creating the volunteer form for the users. This included:
 
 ## Step by Step Outline
 1. **Coming up with a Project Topic Proposal**
-2. **Creating a Static Mock-Up** (HTML and CSS outline)
+2. **Creating a Static Mock-Up (HTML and CSS outline)**
 
    **Initial Landing Page:**
    <img width="926" alt="image" src="https://github.com/user-attachments/assets/4d8ac0ba-ddbb-46f2-8b24-f25005f34e9c">
