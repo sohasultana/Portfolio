@@ -65,7 +65,7 @@ I was responsible for creating the volunteer form for the users. This included:
 This project consisted of creating a database using SQL for the information system Instacart, which is a website that compares different grocery store prices. The database stores information such as customers, orders, stores, and delivery data. In addition, we also used stored procedures to streamline the process of adding and retrieving data.
 
 ## Deliverables
-I created the Order table which tracks the order details. When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, we managed the data by creating a stored procedure called `GetCustomerID`, which is used to add a new customer into the database using the same code to increase efficiency.
+I created the Order table which tracks the order details. When creating the data table, I focused on normalization techniques, such as identifying the primary and foreign keys. After this, I worked with my teammates to get the ERD into third normal form, to ensure there were no redundant values. Additionally, we managed the data by creating a stored procedure called GetCustomerID, which is used to add a new customer into the database using the same code to increase efficiency.
 
 ## Step by Step Outline
 1. **Started with finding out an Information System**
