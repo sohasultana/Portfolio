@@ -8,10 +8,11 @@ Linkedin: www.linkedin.com/in/sohasultanauw
 
 Resumé: https://uwnetid-my.sharepoint.com/:w:/r/personal/sohas_uw_edu/Documents/Attachments/Soha%20Resume.docx?d=w4bfc8f45fbbd4b859ab3404533f6dddb&csf=1&web=1&e=zVXS4f 
 
-# https://lets-find-dinner.web.app/volunteer 
+# Let's Find Dinner
 Timeframe: September 2023 - December 2023
 Your role: Full Stack Developer
 Tools: HTML, CSS, React, Javascript, Github
+Link: https://lets-find-dinner.web.app/volunteer
 About the Project: 
 This project connected users to local food banks in the Seattle area. The app consists of four main sections. The first section is the about page, which goes over the purpose of the app and its services. The next section is the profile section, in which users are able to create a profile. The purpose of the profile is for two reasons: for users who would like to volunteer at a food bank, and for users who would like to use the foodbank services. Creating a profile makes it easier for the foodbanks to keep track of all the users who are at the food bank. In addition, there is a find-a-foodbank section where users can filter through a foodbank to match their preferences. After, the last section is a volunteer form, where users can sign up to be a volunteer. 
 
